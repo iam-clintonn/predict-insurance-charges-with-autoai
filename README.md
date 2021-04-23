@@ -102,7 +102,7 @@ could use any data set you want - we just happened to choose this one.
 ## Step 1. Clone the repo
 Clone this repo onto your computer in the destination of your choice:
 ```
-git clone https://github.com/IBM/predict-insurance-charges-with-ai
+git clone https://github.com/Anam-Mahmood/predict-insurance-charges-with-autoai.git
 ```
 This gives you access to the notebooks in the `notebooks` directory. To explore the data before creating a model, 
 you can look at the [Claim Amount Exploratory](https://github.com/IBM/predict-insurance-charges-with-ai/blob/master/notebooks/Claim%20Amount%20Exploratory.ipynb) notebook, and create a [IBM Cloud Object Storage](https://cloud.ibm.com/catalog/services/cloud-object-storage) service, and paste your credentials in the notebook to run it. This step is purely optional.
